@@ -1,0 +1,11 @@
+@import 'variables';
+@import 'typography';
+
+.container {
+  width: 600px;
+  margin: auto auto;
+}
+
+// Utility classes.
+
+.center { text-align: center; }
